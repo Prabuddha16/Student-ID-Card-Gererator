@@ -1,2 +1,2 @@
-# Getting_Started_with_Java
-Assignment-1 Internsala
+# Student ID-Card Generator
+Assignment-1 Internsala Trainings
