@@ -1,2 +1,2 @@
 # Student ID-Card Generator
-Assignment-1 Internsala Trainings
+Assignment-1 Internshala Trainings
